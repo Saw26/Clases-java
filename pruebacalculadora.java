@@ -65,6 +65,7 @@ public class pruebacalculadora {
                    System.out.println("Introduce el segundo número");
                     num2 = entrada.nextDouble();
                    resultado = sumar(num1, num2);
+                    resultadoAnt=resultado;
                    System.out.println("El resultado es: " + resultado+"\n");
                 }
                 else{
