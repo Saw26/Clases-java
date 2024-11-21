@@ -9,8 +9,8 @@ public class bucle_do_while {
         int resultado;
         int numerodeoperaciones=0;
         do {
-            num1 = rn.nextInt(100)+1;
-            num2 = rn.nextInt(100)+1;
+            num1 = rn.nextInt(200)+1;
+            num2 = rn.nextInt(200)+1;
             System.out.println(num1+ " + " + num2 + " =");
             resultado=in.nextInt();
             numerodeoperaciones++;
